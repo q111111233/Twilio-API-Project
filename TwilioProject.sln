@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "TwilioProject", "src\TwilioProject\TwilioProject.xproj", "{AD1AA181-6C30-453D-9F67-7EE623F89AC1}"
 EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Texter", "Texter\Texter.xproj", "{63BA3CD9-9C89-4E38-B6DC-0B0C7C981BD7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -22,11 +24,16 @@ Global
 		{AD1AA181-6C30-453D-9F67-7EE623F89AC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD1AA181-6C30-453D-9F67-7EE623F89AC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD1AA181-6C30-453D-9F67-7EE623F89AC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63BA3CD9-9C89-4E38-B6DC-0B0C7C981BD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63BA3CD9-9C89-4E38-B6DC-0B0C7C981BD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63BA3CD9-9C89-4E38-B6DC-0B0C7C981BD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63BA3CD9-9C89-4E38-B6DC-0B0C7C981BD7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{AD1AA181-6C30-453D-9F67-7EE623F89AC1} = {A399582F-6174-42C5-B7C8-EB35805E39E9}
+		{63BA3CD9-9C89-4E38-B6DC-0B0C7C981BD7} = {A399582F-6174-42C5-B7C8-EB35805E39E9}
 	EndGlobalSection
 EndGlobal
